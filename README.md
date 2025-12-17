@@ -21,7 +21,7 @@ API RESTful con autenticación JWT usando Passport.js, protegiendo endpoints de 
 ### 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/hybridge-blog-auth.git
+git clone https://github.com/Aaron-1990/hybridge-blog-auth.git
 cd hybridge-blog-auth
 ```
 
