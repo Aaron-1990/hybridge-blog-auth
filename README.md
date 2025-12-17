@@ -128,10 +128,6 @@ Respuesta:
 Authorization: Bearer eyJhbGci...
 ```
 
-## Capturas de Pantalla
-
-Ver carpeta `/screenshots` para ejemplos de uso en Postman.
-
 ## Seguridad Implementada
 
 - ✅ Passwords hasheados con bcrypt (10 rounds)
